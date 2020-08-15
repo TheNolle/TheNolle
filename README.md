@@ -1,15 +1,17 @@
 # Hey You ❤
 
 Let me introduce myself:
-Hi, I am **TheNolle**, a French student.
+Hi, I am **TheNolle**, a **French student**.
 I like a lot of things on internet such as **developping**, **drawing** and **a lot more things**, that's why I'm now on **GitHub**, to share it all.
 I specialize in **javascript**, **java** and a bit in **html**.
 
-I'm still learning all of that so if something doesn't work and you know why, try helping me, it would be really nice!
+I'm **still learning** all of that so if something doesn't work and you know why, try helping me, it would be really nice!
 
 That's all I'm willing to say!
 
+
 =======================================================================
+
 
 - 🔭 I’m currently working on **a github.io website**.
 - 🌱 I’m currently learning **javascript, css and html**.
