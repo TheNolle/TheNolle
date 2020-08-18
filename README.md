@@ -1,7 +1,7 @@
 # Hey You ❤
 
 Let me introduce myself:
-Hi, I am **TheNolle**, a **French student**.
+Hi, I am **TheNolle** <img src="https://raw.githubusercontent.com/TheNolle/TheNolle/master/Avatar.png" alt="avatar" width="16" height="16"/>, a **French student**.
 I like a lot of things on internet such as **developping**, **drawing** and **a lot more things**, that's why I'm now on **GitHub**, to share it all.
 I specialize in **javascript**, **java** and a bit in **html**.
 
