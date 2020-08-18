@@ -10,9 +10,6 @@ I'm **still learning** all of that so if something doesn't work and you know why
 That's all I'm willing to say!
 
 
-
-###### You can find a perfect list of all my projects with a direct link to them right [**here**](https://github.com/TheNolle/TheNolle/blob/master/All%20the%20projects.md)
-
 ===========================================================
 
 
@@ -24,3 +21,6 @@ That's all I'm willing to say!
 - 📫 How to reach me: **my [**discord**](https://discord.gg/yUgp7k8)**
 - 😄 Pronouns: **hehe, who knows?**
 - ⚡ Fun fact: **I love cute things**
+
+
+###### You can find a perfect list of all my projects with a direct link to them right [**here**](https://github.com/TheNolle/TheNolle/blob/master/All%20the%20projects.md)
