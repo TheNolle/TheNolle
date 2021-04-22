@@ -6,8 +6,20 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://i.imgur.com/jGKa5Cc.png" alt="TheNolle.com">][Website]
-[<img align="left" width="22px" src="https://i.imgur.com/Q8vphrH.png" alt="TheNolle | Discord">][Discord]
+<b>My Website</b>
+<a href="https://TheNolle.com/">
+  <img align="left" width="22px" src="https://i.imgur.com/jGKa5Cc.png" alt="TheNolle.com">
+</a>
+
+<b>TheNolle's Studios Discord</b>
+<a href="https://TheNolle.com/Discord">
+  <img align="left" width="22px" src="https://i.imgur.com/Q8vphrH.png" alt="TheNolle's Studios Discord">
+</a>
+
+<b>TheNolle's Studios Github</b>
+<a href="https://github.com/TheNolles-Studios">
+  <img align="left" width="22px" src="https://i.imgur.com/rY7fJBP.png" alt="TheNolle's Studios">
+</a>
 
 <br>
 
@@ -41,7 +53,6 @@
 
 [Website]: https://TheNolle.com/
 [TheNollesWorks]: https://Works.TheNolle.com/
-[Discord]: https://Discord.com/invite/yUgp7k8/
 
 [IntellIJ]: https://www.jetbrains.com/idea/
 [Git]: https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
