@@ -1,7 +1,7 @@
 ### Hi there, I'm TheNolle - aka [Nolly][Website] :heart:
 
 ## I'm a young Company Owner and Newbie Programmer.
-- 🎉 I’m currently working on a [TheNolle's Event][TheNollesWorks]!
+- 🎉 I’m currently working on a [TheNolle's BetterPixel][TheNollesWorks]!
 - 🥅 2021 Goals: Have [TheNolle's Studios Launcher][TheNollesWorks] and [Nightmare Client][TheNollesWorks] out by the end of the year
 
 ### Connect with me:
@@ -21,7 +21,7 @@
 [<img align="left" width="26px" src="https://i.imgur.com/NDFnfZq.png" alt="Intellij">][IntellIJ]
 [<img align="left" width="26px" src="https://i.imgur.com/AgSxngK.png" alt="Git">][Git]
 [<img align="left" width="26px" src="https://i.imgur.com/gdszknL.png" alt="Github Client">][GithubClient]
-[<img align="left" width="26px" src="https://i.imgur.com/TyZjkO0.png" alt="Visual Studio Code">][VisualStudioCode]
+[<img align="left" width="26px" src="https://i.imgur.com/TyZjkO0.png" alt="Visual Studio Code Insiders">][VisualStudioCodeInsiders]
 [<img align="left" width="26px" src="https://i.imgur.com/ovqe8dz.png" alt="Sublime Text 3">][SublimeText3]
 
 <br>
@@ -46,5 +46,5 @@
 [IntellIJ]: https://www.jetbrains.com/idea/
 [Git]: https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
 [GithubClient]: https://desktop.github.com/
-[VisualStudioCode]: https://code.visualstudio.com/docs/editor/whyvscode
+[VisualStudioCodeInsiders]: https://code.visualstudio.com/blogs/2016/05/23/evolution-of-insiders
 [SublimeText3]: https://www.sublimetext.com/
