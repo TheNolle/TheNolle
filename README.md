@@ -1,7 +1,7 @@
-### Hi there, I'm TheNolle - aka [Nolly][Website] :heart:
+### Hi there, I'm [TheNolle][Website] - aka [Nolly][Website] :heart:
 
 ## I'm a young Company Owner and Newbie Programmer.
-- 🎉 I’m currently working on a [TheNolle's BetterPixel][TheNollesWorks]!
+- 🎉 I’m currently working on [TheNolle's BetterPixel][TheNollesWorks]!
 - 🥅 2021 Goals: Have [TheNolle's Studios Launcher][TheNollesWorks] and [Nightmare Client][TheNollesWorks] out by the end of the year
 
 ### Connect with me:
