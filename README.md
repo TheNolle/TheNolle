@@ -17,7 +17,7 @@
 </a>
 
 <b>TheNolle's Studios Github</b>
-<a href="https://github.com/TheNolles-Studios">
+<a href="https://github.com/TheNolles-Studios/Description#readme">
   <img align="left" width="22px" src="https://i.imgur.com/rY7fJBP.png" alt="TheNolle's Studios">
 </a>
 
