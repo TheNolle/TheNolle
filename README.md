@@ -27,7 +27,7 @@
 <h2 align="center">My Stats:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thenolle&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats" width="570">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenolle" alt="GitHub Stats" width="250">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenolle&theme=dark" alt="GitHub Stats" width="250">
 </p>
 
 <h2 align="center">My Skills:</h2>
