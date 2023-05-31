@@ -19,7 +19,7 @@
     <span>🔭 I’m passionate about pushing the boundaries of web development with Javascript</span> <br>
     <span>🌱 Currently working on exciting new web development projects and learning new things every day</span> <br>
     <span>🚀 Specializing in creating fast, lightweight, and high-quality web applications</span> <br><br>
-    <span>When I'm not coding, you can find me hanging out with my boyfriend and best friend. I'm a huge cat lover and enjoy visiting cat cafes. And when it comes to food, pasta is my ultimate comfort food! 🍝</span> <br>
+    <span>When I'm not coding, you can find me hanging out with my boyfriend and best friends. I'm a huge cat lover and enjoy visiting cat cafes. And when it comes to food, pasta is my ultimate comfort food! 🍝</span> <br>
     <span>As a member of the LGBT community, I'm dedicated to protecting our rights and promoting acceptance and equality. I participate in pride events and support initiatives that advance our cause. 🏳️‍🌈</span> <br>
     <span>My ultimate goal is to one day be self-sufficient and live in a cozy house, in a cozy forest, near a cozy town. 🏡 I want to live from coding and cultivating my own crops.</span>
 </p>
