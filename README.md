@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://twitter.com/TheNolly_" target="_blank"><img src="https://img.shields.io/twitter/follow/TheNolly_?logo=twitter&style=for-the-badge" alt="Twitter"></a>
   <a href="https://github.com/thenolle" target="_blank"><img src="https://img.shields.io/github/followers/thenolle?label=Follow%20%40TheNolle&logo=github&style=for-the-badge" alt="GitHub"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/discord/1089982724158279933?label=Discord%20Server&logo=discord&style=for-the-badge" alt="Discord Server"></a>
+  <a href="https://discord.com/invite/86yVsMVN9z" target="_blank"><img src="https://img.shields.io/discord/1089982724158279933?label=Discord%20Server&logo=discord&style=for-the-badge" alt="Discord Server"></a>
 </p>
 
 
