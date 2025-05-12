@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            445 Commits
+                            446 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    21.5k added, 110 removed
+                                    8.34k added, 873 removed
                                 </div>
                             </section>
                             <section>
@@ -244,14 +244,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="145.45595994172314" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="145.45595994172314" y="0" width="143.29250180347114" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="288.7484617451942" y="0" width="89.47151930067754" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="378.2199810458718" y="0" width="55.80225469256121" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="434.022235738433" y="0" width="13.447925654553941" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="447.47016139298694" y="0" width="5.098603901155636" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="452.5687652941426" y="0" width="3.851280818139384" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="456.42004611228197" y="0" width="3.5799538877180077" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="147.0583599544041" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="147.0583599544041" y="0" width="142.56251847056672" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="289.6208784249708" y="0" width="89.01571933182285" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="378.63659775679366" y="0" width="55.51797801826651" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="434.15457577506015" y="0" width="13.379417104096595" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="447.53399287915676" y="0" width="5.072629786515431" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="452.6066226656722" y="0" width="3.831661014086886" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="456.4382836797591" y="0" width="3.5617163202409268" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -362,12 +362,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 12 commits)</small>
+                    <small class="h-details">(computed from last 18 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 28.0 characters per line of code written</li>
+                        <li>Has approximately 27.8 characters per line of code written</li>
                         <li>Mostly pushes code around 18:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -379,7 +379,7 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             13
                         </div>
                         <div class="entry">
@@ -394,7 +394,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             16
                         </div>
                         <div class="entry">
@@ -403,23 +403,23 @@
                             17
                         </div>
                         <div class="entry">
-                            <span class="value">5</span>
+                            <span class="value">9</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             18
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             19
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             20
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             21
                         </div>
                     </div>
@@ -434,7 +434,7 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">11</span>
+                                <span class="value">17</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Mon
                             </div>
@@ -450,7 +450,7 @@
                             </div>
                             <div class="entry">
                                 <span class="value">1</span>
-                                <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 2.941176470588235px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -1933,22 +1933,20 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#630d8a5</div>
+                                        <div class="sha">#881a1d5</div>
                                         <div class="message">
-                                            feat(scene)
+                                            fix(physics)
                                             <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#A6D388" d="M22 4.587c0 6.075-3.667 18.333-11 18.333S0 10.663 0 4.587C0-2.593 8.25.92 11 .92c2.712 0 11-3.551 11 3.667z"/>
-                                                <path fill="#5C913B" d="M5.5 11.92c4.583 2.75 7.333 2.75 11 0 2.75-1.833-1.833 6.417-5.5 6.417s-8.25-8.25-5.5-6.417zM3.666 8.254c-.138 0-.278-.031-.41-.097-.452-.226-.636-.777-.409-1.23.636-1.272 1.933-2.15 3.303-2.235.839-.047 2.458.155 3.779 2.137.281.421.167.99-.254 1.271-.423.281-.991.167-1.271-.254-.61-.915-1.355-1.374-2.14-1.324-.73.045-1.428.526-1.777 1.226-.161.32-.485.506-.821.506zm14.668 0c-.336 0-.66-.186-.82-.507-.35-.699-1.047-1.18-1.777-1.226-.776-.042-1.529.409-2.14 1.324-.282.422-.85.535-1.271.254-.421-.281-.535-.85-.254-1.271 1.32-1.983 2.931-2.186 3.779-2.137 1.37.085 2.667.963 3.303 2.235.227.453.043 1.003-.41 1.23-.132.067-.272.098-.41.098z"/>
-                                                <path fill="#CBB7EA" d="M36 17.667C36 23.741 32.333 36 25 36S14 23.741 14 17.667C14 10.486 22.25 14 25 14c2.713 0 11-3.552 11 3.667z"/>
-                                                <path fill="#9266CC" d="M29.5 30.151C26 28 24 28 20.5 30.151c-2.75 1.833.833-4.417 4.5-4.417s7.25 6.25 4.5 4.417zM17 21.917c-.138 0-.278-.031-.41-.097-.453-.226-.636-.777-.41-1.23.7-1.399 2.404-2.49 4.051-2.592 1.489-.099 2.815.585 3.698 1.911.281.422.167.99-.254 1.272-.421.281-.99.167-1.271-.254-.522-.782-1.215-1.148-2.059-1.099-1.121.069-2.164.859-2.526 1.583-.16.32-.484.506-.819.506zm16.001 0c-.337 0-.66-.186-.821-.508-.36-.723-1.403-1.512-2.524-1.582-.842-.047-1.539.316-2.06 1.099-.28.421-.851.535-1.271.254-.421-.281-.535-.85-.254-1.272.884-1.326 2.188-2.009 3.699-1.911 1.648.103 3.352 1.194 4.051 2.593.226.452.042 1.003-.411 1.229-.132.067-.271.098-.409.098z"/>
+                                                <path fill="#DD2E44" d="M12 3l-9 8.985V24l9 9h12l9-9V11.985L24 3z"/>
+                                                <path fill="#CCD6DD" d="M24.827 1H11.173L1 11.156v13.672L11.172 35h13.657L35 24.828V11.156L24.827 1zM33 24l-9 9H12l-9-9V11.985L12 3h12l9 8.985V24z"/>
                                             </svg>
-                                            add abstract Scene base class and SceneManager with full lifecycle handling
+                                            clamp max velocity and prevent repeated air jumps using isGrounded + isPressed
 
 Signed-off-by: TheNolle &lt;github@thenolle.com&gt;
                                         </div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 May 2025, 18:28:36</div>
+                                <div class="timestamp">12 May 2025, 19:14:40</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -1965,20 +1963,27 @@ Signed-off-by: TheNolle &lt;github@thenolle.com&gt;
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#830ae8e</div>
+                                        <div class="sha">#5bbea20</div>
                                         <div class="message">
-                                            feat(runtime)
+                                            feat(physics)
                                             <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3B88C3" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#FFF" d="M30.2 10L23 4v4h-8C9.477 8 5 12.477 5 18c0 1.414.297 2.758.827 3.978l3.3-2.75C9.044 18.831 9 18.421 9 18c0-3.314 2.686-6 6-6h8v4l7.2-6zm-.026 4.023l-3.301 2.75c.083.396.127.806.127 1.227 0 3.313-2.687 6-6 6h-8v-4l-7.2 6 7.2 6v-4h8c5.522 0 10-4.478 10-10 0-1.414-.297-2.758-.826-3.977z"/>
+                                                <path fill="#C1694F" d="M35.627 10.826L.373 16.56v9.722h.004c-.012.149.129.295.443.473.727.412 9.835 5.286 10.553 5.639.895.439 1.441.493 2.206.112.626-.312 19.236-10.173 20.932-11.074.863-.459 1.146-.711 1.099-.919h.018v-9.687z"/>
+                                                <path fill="#A0041E" d="M.373 16.56v9.722h.004c-.012.149.129.295.443.473.727.412 9.835 5.286 10.553 5.639.432.212.781.329 1.114.356V16.56H.373z"/>
+                                                <path fill="#D99E82" d="M22.224 4.682c1.076-.558 1.113-.628 2.249-.024 1.136.604 9.846 5.248 10.487 5.589.814.434 1.112.591-.449 1.421-1.696.902-20.306 10.763-20.932 11.074-.765.381-1.311.327-2.206-.112-.718-.352-9.826-5.226-10.553-5.639-.82-.465-.482-.706.769-1.37L22.224 4.682z"/>
+                                                <ellipse fill="#C1694F" cx="11.189" cy="17.191" rx="3.679" ry="1.84"/>
+                                                <path fill="#A0041E" d="M11.642 16.734c-1.569-.516-3.352-.369-4.108.339-.005.04-.024.078-.024.118 0 1.016 1.647 1.84 3.679 1.84 1.063 0 2.013-.229 2.684-.589-.333-.692-1.086-1.332-2.231-1.708z"/>
+                                                <ellipse fill="#C1694F" cx="18" cy="13.639" rx="3.679" ry="1.84"/>
+                                                <path fill="#A0041E" d="M18.453 13.182c-1.569-.516-3.352-.369-4.108.339-.005.04-.024.078-.024.118 0 1.016 1.647 1.84 3.679 1.84 1.063 0 2.013-.229 2.684-.589-.333-.692-1.086-1.332-2.231-1.708z"/>
+                                                <ellipse fill="#C1694F" cx="24.811" cy="10.087" rx="3.679" ry="1.84"/>
+                                                <path fill="#A0041E" d="M25.264 9.63c-1.569-.516-3.352-.369-4.108.339-.005.04-.024.078-.024.118 0 1.016 1.647 1.84 3.679 1.84 1.063 0 2.012-.229 2.684-.589-.333-.692-1.086-1.332-2.231-1.708z"/>
                                             </svg>
-                                            add centralized GameLoop class with deltaTime and separate update/render phases
+                                            add AABB collision detection and grounded floor logic for player jumping and landing
 
 Signed-off-by: TheNolle &lt;github@thenolle.com&gt;
                                         </div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 May 2025, 18:23:01</div>
+                                <div class="timestamp">12 May 2025, 19:06:12</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -1995,26 +2000,22 @@ Signed-off-by: TheNolle &lt;github@thenolle.com&gt;
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b6059fd</div>
+                                        <div class="sha">#e479ace</div>
                                         <div class="message">
-                                            feat(renderer)
+                                            feat(physics)
                                             <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#31373D" d="M32 21v1h-2v-1c0-.446-.09-.867-.225-1.268 2.446-.757 4.224-3.038 4.224-5.733 0-3.314-2.687-6-6-6-1.603 0-3.055.632-4.131 1.656C23.241 6.433 20.405 4 17 4c-3.866 0-7 3.134-7 7 0 2.551 1.369 4.777 3.409 6H13c-2.209 0-4 1.791-4 4H8l-6-4H1v14h1l6-4h1v2c0 2.209 1.791 4 4 4h13c2.209 0 4-1.791 4-4v-3h2v1h3v-6h-3z"/>
-                                                <path fill="#66757F" d="M22 11c0 2.761-2.239 5-5 5s-5-2.239-5-5 2.239-5 5-5 5 2.238 5 5z"/>
-                                                <circle fill="#CCD6DD" cx="17" cy="11" r="2"/>
-                                                <circle fill="#66757F" cx="27.999" cy="14" r="4"/>
-                                                <circle fill="#CCD6DD" cx="27.999" cy="14" r="2"/>
-                                                <path fill="#8899A6" d="M17 20h10v10H17z"/>
-                                                <path fill="#31373D" d="M19 22h6v6h-6z"/>
-                                                <circle fill="#8899A6" cx="12.999" cy="28" r="2"/>
+                                                <path fill="#CCD6DD" d="M19.469 8.319l-3.854-4.671c-.355-.43-.991-.491-1.421-.136l-3.376 2.785 5.138 6.228 3.376-2.785c.431-.355.492-.991.137-1.421z"/>
+                                                <path fill="#BE1931" d="M29.543 25.021l-6.228-5.138s-2.395 3.132-5.006 6.152c-1.986 2.298-6.093 2.215-8.406-.098s-2.395-6.42-.098-8.406c3.02-2.611 6.152-5.006 6.152-5.006l-5.138-6.228s-5.122 3.928-6.613 5.43c-5.468 5.508-5.487 14.418.001 19.906s14.398 5.468 19.906.001c1.502-1.491 5.43-6.613 5.43-6.613z"/>
+                                                <path fill="#CCD6DD" d="M27.521 16.371l4.671 3.854c.43.355.491.991.136 1.421l-2.785 3.376-6.228-5.138 2.785-3.376c.355-.431.992-.492 1.421-.137z"/>
+                                                <path fill="#FFAC33" d="M23.717 4.223L21.96 2.43 23.896.535c.006-.006.004-.015.009-.021.016-.019.021-.039.027-.063.007-.024.013-.044.01-.068-.001-.008.005-.015.004-.023-.004-.017-.02-.024-.028-.038-.008-.016-.005-.035-.018-.048-.006-.006-.015-.004-.022-.009-.02-.016-.042-.021-.067-.028-.022-.006-.041-.012-.063-.01-.008.001-.016-.006-.024-.004L18.588 1.48c-.064.016-.115.065-.134.129-.018.064 0 .133.046.18l1.757 1.794-1.935 1.896c-.006.006-.004.015-.009.021-.016.019-.021.04-.028.064-.007.024-.013.043-.01.067.001.008-.006.015-.004.024.006.025.023.043.038.062.005.007.003.016.009.023l.011.011c.042.036.095.044.147.036.007-.001.011.006.018.004l5.134-1.257c.064-.016.115-.065.134-.129.018-.066 0-.135-.045-.182zm-2.155-1.661l.005-.005-.005.005zm14.266 12.543l-2.055-1.443 1.557-2.217c.005-.007.001-.015.005-.022.012-.022.013-.042.015-.067s.005-.045-.002-.069c-.002-.008.003-.015-.001-.023-.007-.016-.024-.02-.034-.033-.011-.014-.012-.032-.027-.043-.007-.005-.016-.001-.023-.005-.023-.012-.045-.013-.071-.015-.023-.002-.043-.004-.064.002-.008.002-.016-.003-.024.001l-4.819 2.173c-.06.027-.101.085-.108.151-.006.066.025.131.078.169l2.055 1.443-1.556 2.217c-.005.007-.001.015-.005.022-.012.022-.013.043-.015.068-.002.024-.005.045.002.068.002.008-.003.016.001.024.011.023.031.038.049.054.006.006.006.015.013.02l.013.008c.048.028.102.026.151.008.006-.002.012.004.018.001l4.818-2.174c.06-.027.101-.085.108-.151.004-.064-.026-.129-.079-.167zm-2.422-1.24l.004-.006-.004.006z"/>
                                             </svg>
-                                            add Viewport abstraction and Z-index layer-based rendering to Canvas2DRenderer
+                                            add PhysicsComponent with gravity, velocity, and friction support; integrated into Player
 
 Signed-off-by: TheNolle &lt;github@thenolle.com&gt;
                                         </div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 May 2025, 18:19:35</div>
+                                <div class="timestamp">12 May 2025, 18:56:26</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -2031,13 +2032,25 @@ Signed-off-by: TheNolle &lt;github@thenolle.com&gt;
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#caac221</div>
-                                        <div class="message">update-renderer: Drawable base + Rect, Circle, Line, Text renderables with playground tests
+                                        <div class="sha">#fc753c8</div>
+                                        <div class="message">
+                                            feat(input)
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#99AAB5" d="M16 9h4v17h-4z"/>
+                                                <path fill="#DA2F47" d="M10 24.5c0 .828-.672 1.5-1.5 1.5h-3c-.828 0-1.5-.672-1.5-1.5S4.672 23 5.5 23h3c.828 0 1.5.672 1.5 1.5z"/>
+                                                <path fill="#31373D" d="M34 33c0 1.104-.896 2-2 2H4c-1.104 0-2-.896-2-2v-6c0-1.104.896-2 2-2h28c1.104 0 2 .896 2 2v6z"/>
+                                                <path fill="#31373D" d="M10 34.5c0 .828-.671 1.5-1.5 1.5h-3c-.829 0-1.5-.672-1.5-1.5S4.671 33 5.5 33h3c.829 0 1.5.672 1.5 1.5zm22 0c0 .828-.672 1.5-1.5 1.5h-3c-.828 0-1.5-.672-1.5-1.5s.672-1.5 1.5-1.5h3c.828 0 1.5.672 1.5 1.5z"/>
+                                                <circle fill="#DA2F47" cx="18" cy="7" r="5"/>
+                                                <path fill="#31373D" d="M25 26c0 1.104-.896 2-2 2H13c-1.104 0-2-.896-2-2v-1c0-1.104 3.896-6 5-6h4c1.104 0 5 4.896 5 6v1z"/>
+                                                <path fill="#66757F" d="M33 28c0 .553-.447 1-1 1H4c-.552 0-1-.447-1-1 0-.553.448-1 1-1h28c.553 0 1 .447 1 1z"/>
+                                            </svg>
+                                            add action binding system to InputManager for flexible and dynamic input mappings
 
-Signed-off-by: TheNolle &lt;github@thenolle.com&gt;</div>
+Signed-off-by: TheNolle &lt;github@thenolle.com&gt;
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 May 2025, 18:13:12</div>
+                                <div class="timestamp">12 May 2025, 18:53:37</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -2054,13 +2067,20 @@ Signed-off-by: TheNolle &lt;github@thenolle.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c1fab88</div>
-                                        <div class="message">create-renderer: Abstract Renderer interface + working Canvas2DRenderer with test loop
+                                        <div class="sha">#a304c46</div>
+                                        <div class="message">
+                                            feat(input)
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#99AAB5" d="M36 28c0 1.104-.896 2-2 2H2c-1.104 0-2-.896-2-2V12c0-1.104.896-2 2-2h32c1.104 0 2 .896 2 2v16z"/>
+                                                <path d="M5.5 19c0 .553-.448 1-1 1h-1c-.552 0-1-.447-1-1v-1c0-.553.448-1 1-1h1c.552 0 1 .447 1 1v1zm4 0c0 .553-.448 1-1 1h-1c-.552 0-1-.447-1-1v-1c0-.553.448-1 1-1h1c.552 0 1 .447 1 1v1zm4 0c0 .553-.448 1-1 1h-1c-.552 0-1-.447-1-1v-1c0-.553.448-1 1-1h1c.552 0 1 .447 1 1v1zm4 0c0 .553-.448 1-1 1h-1c-.552 0-1-.447-1-1v-1c0-.553.448-1 1-1h1c.552 0 1 .447 1 1v1zm4 0c0 .553-.447 1-1 1h-1c-.553 0-1-.447-1-1v-1c0-.553.447-1 1-1h1c.553 0 1 .447 1 1v1zm4 0c0 .553-.447 1-1 1h-1c-.553 0-1-.447-1-1v-1c0-.553.447-1 1-1h1c.553 0 1 .447 1 1v1zm4 0c0 .553-.447 1-1 1h-1c-.553 0-1-.447-1-1v-1c0-.553.447-1 1-1h1c.553 0 1 .447 1 1v1zm4 0c0 .553-.447 1-1 1h-1c-.553 0-1-.447-1-1v-1c0-.553.447-1 1-1h1c.553 0 1 .447 1 1v1zm-26 4c0 .553-.448 1-1 1h-1c-.552 0-1-.447-1-1v-1c0-.553.448-1 1-1h1c.552 0 1 .447 1 1v1zm4 0c0 .553-.448 1-1 1h-1c-.552 0-1-.447-1-1v-1c0-.553.448-1 1-1h1c.552 0 1 .447 1 1v1zm4 0c0 .553-.448 1-1 1h-1c-.552 0-1-.447-1-1v-1c0-.553.448-1 1-1h1c.552 0 1 .447 1 1v1zm4 0c0 .553-.447 1-1 1h-1c-.552 0-1-.447-1-1v-1c0-.553.448-1 1-1h1c.553 0 1 .447 1 1v1zm4 0c0 .553-.447 1-1 1h-1c-.553 0-1-.447-1-1v-1c0-.553.447-1 1-1h1c.553 0 1 .447 1 1v1zm4 0c0 .553-.447 1-1 1h-1c-.553 0-1-.447-1-1v-1c0-.553.447-1 1-1h1c.553 0 1 .447 1 1v1zm4 0c0 .553-.447 1-1 1h-1c-.553 0-1-.447-1-1v-1c0-.553.447-1 1-1h1c.553 0 1 .447 1 1v1zM10 27c0 .553-.448 1-1 1H7c-.552 0-1-.447-1-1v-1c0-.553.448-1 1-1h2c.552 0 1 .447 1 1v1zm20 0c0 .553-.447 1-1 1h-2c-.553 0-1-.447-1-1v-1c0-.553.447-1 1-1h2c.553 0 1 .447 1 1v1zm-5 0c0 .553-.447 1-1 1H12c-.552 0-1-.447-1-1v-1c0-.553.448-1 1-1h12c.553 0 1 .447 1 1v1zM5.5 13.083c0 .552-.448 1-1 1h-1c-.552 0-1-.448-1-1s.448-1 1-1h1c.552 0 1 .448 1 1zm4 0c0 .552-.448 1-1 1h-1c-.552 0-1-.448-1-1s.448-1 1-1h1c.552 0 1 .448 1 1zm4 0c0 .552-.448 1-1 1h-1c-.552 0-1-.448-1-1s.448-1 1-1h1c.552 0 1 .448 1 1zm4 0c0 .552-.448 1-1 1h-1c-.552 0-1-.448-1-1s.448-1 1-1h1c.552 0 1 .448 1 1zm4 0c0 .552-.447 1-1 1h-1c-.553 0-1-.448-1-1s.447-1 1-1h1c.553 0 1 .448 1 1zm4 0c0 .552-.447 1-1 1h-1c-.553 0-1-.448-1-1s.447-1 1-1h1c.553 0 1 .448 1 1zm4 0c0 .552-.447 1-1 1h-1c-.553 0-1-.448-1-1s.447-1 1-1h1c.553 0 1 .448 1 1zm4 0c0 .552-.447 1-1 1h-1c-.553 0-1-.448-1-1s.447-1 1-1h1c.553 0 1 .448 1 1z" fill="#292F33"/>
+                                            </svg>
+                                            add InputManager for key press/hold/release tracking and integrate with TestScene
 
-Signed-off-by: TheNolle &lt;github@thenolle.com&gt;</div>
+Signed-off-by: TheNolle &lt;github@thenolle.com&gt;
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="timestamp">12 May 2025, 18:08:15</div>
+                                <div class="timestamp">12 May 2025, 18:37:10</div>
                             </section>
                         </div>
                     </section>
@@ -2179,14 +2199,14 @@ Signed-off-by: TheNolle &lt;github@thenolle.com&gt;</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 May 2025, 22:26:35 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 May 2025, 23:21:54 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
